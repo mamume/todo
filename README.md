@@ -2,7 +2,7 @@
 A Todo Web application made using React.js
 
 ## Description
-In Todo app you can create, delete todos, and mark todos as complete.
+In Todo app you can create, delete todos, and mark todos as completed.
 
 ## Installation
   ```
